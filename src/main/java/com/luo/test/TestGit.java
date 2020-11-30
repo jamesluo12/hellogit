@@ -6,5 +6,6 @@ public class TestGit {
         System.out.println("更新1");
         System.out.println("创建分支");
         System.out.println("master创建");
+        System.out.println("test分支创建");
     }
 }
